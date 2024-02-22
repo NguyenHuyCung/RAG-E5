@@ -1,0 +1,2 @@
+NVIDIA Gen AI on RTX PCs Developer Contest
+Build your next innovative generative AI project using NVIDIA® TensorRT™ or TensorRT-LLM on Windows PC with NVIDIA RTX™ systems for a chance to win an RTX 4090 GPU, a GTC conference  pass, and more. This contest is designed to expand the reach of generative AI applications.  Be part of the NVIDIA developer community by showing what you can develop on RTX.

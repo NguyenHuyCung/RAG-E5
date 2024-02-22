@@ -1,0 +1,25 @@
+The Challenge
+The NVIDIA GEN AI ON RTX PCs DEVELOPER CONTEST involves the following challenge: Build generative AI projects on RTX in one of these three categories: text-based applications, visual applications, or general generative AI projects, and submit your entries by February 23 for a chance to win a NVIDIA GeForce RTX 4090 GPU, a GTC 2024 in-person conference pass, and $500 total travel stipend to attend NVIDIA GTC 2024 in person (March 17-21, 2024, in San Jose California, USA), and a self-paced virtual Deep Learning Institute training course.
+
+1, Create your generative AI project in one or more of these categories:
+a, Text-Based Applications: Whether it’s a RAG-based chatbot, a plug-in for an existing application, or a code generation tool, the possibilities are endless. Build generative AI projects that output text, featuring a primary model accelerated with TensorRT-LLM on Windows PCs for RTX. Developers can choose to use a pre-optimized model for RTX (Llama 2, Mistral 7B, Phi-2, Code Llama), any community model optimized for TensorRT-LLM, or your own optimized model for TensorRT-LLM.
+b, Visual Applications: Build projects based on visual media, be it for image generation, video generation, or 3D graphics generation, with the primary model accelerated with TensorRT on Windows PC for RTX*. Developers can choose models such as Stable Diffusion or Stable Video Diffusion. The output for projects in this category must be primarily visual media (images or video).
+c, General Generative AI Projects: This open category lets you choose to build almost any generative AI application or project. Example projects include building multi-modal applications, optimizing community models, developing connectors to community projects, or accelerating existing generative AI pipelines. As with the other categories, the primary model must be accelerated with TensorRT or TensorRT-LLM.
+* Secondary/supporting models may run on other inference backends, if needed.
+
+2, Post a 45 to 90-second demo video of your AI on RTX project on Twitter, LinkedIn, or Instagram using the hashtags #GenAIonRTX #DevContest, and #GTC24. Also, tag one of these NVIDIA social handles: Twitter (X): @NVIDIAAIDev, LinkedIn: @NVIDIAAI, or Instagram: @NVIDIAAI
+3, Complete the submission form at https://www.nvidia.com/en-us/ai-data-science/generative-ai/rtx-developer-contest, with your full name, email address, country of residence, project category, hardware tested on, project name, project description, target audience, link to code on GitHub, link to your 45-90 second demo video, and link to your social post with entry and contest hashtags.
+To enter by mail, provide the following: your full name, email address, country of residence, project category, hardware tested on, project name, project description, primary generative AI model used, target audience, link to code on GitHub, link to your 45-90 second demo video, and link to your social post with entry and contest hashtags to: NVIDIA GENERATIVE AI on RTX PCs CONTEST, DEVELOPER PROGRAMS ADMINISTRATOR, 2788 San Tomas Expressway, Santa Clara, CA, 95051, USA.
+
+Judging
+
+There will be a total of three (3) winners - across any of the project categories. The winners will be selected by a panel of NVIDIA expert judges. Qualifying submissions will be judged by:  
+
+Demo: Overall impression of the demo for its target audience.
+Impact and Ease-of-Use: Relative impact of the project, and how easily the project is usable by its target audience. 
+Technology: How effectively the developer has integrated or used NVIDIA’s technology stack for their application or project. 
+Each individual winner will receive the prize package as outlined below. The value of the prizes may vary for countries outside of the USA, and are not redeemable for cash. 
+
+The winners of the prizes will be announced on the NVIDIA Developer Blog on or around March 21, 2024. NVIDIA judges will have the sole authority and discretion to select all the winners, and all decisions of NVIDIA judges will be FINAL.
+
+By entering this Contest, you agree to be bound by the decisions of NVIDIA judges. 

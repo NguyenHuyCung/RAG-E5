@@ -1,0 +1,2 @@
+Entry Period
+The entry period for this Contest begins at 8:00 AM PST (Pacific Standard Time) on January 8, 2024, and ends 11:59 PM PST (Pacific Standard Time) on February 23rd (hereinafter the “Entry Period”). Following the entry period, an NVIDIA judge will select and announce the winners of the contest on or around March 21, 2024. This contest has the ability to register prior to the first question generated, however points are not accrued, nor is the contest live, until the above stated time and date. 
